@@ -1,0 +1,64 @@
+body {
+    background-image: url(https://previews.123rf.com/images/foryou13/foryou131708/foryou13170800007/83318593-flat-lay-green-leaf-on-white-wood-background-with-pattern-and-wallpaper-minimal-style.jpg);
+    
+    
+    
+    }
+
+
+#first {
+
+font-size: 60px;
+font-weight: bold;
+font-family: helvetica, arial, sans-serif;
+text-transform: uppercase;
+text-align: center;
+color: #000;
+padding-bottom: 5%;
+background-color: rgb(48, 107, 13);
+color: #fff;
+padding-top: 50px;
+border: solid 1px #000;
+
+
+}
+
+div {
+border: solid blue;
+padding: 25px;
+margin:10px;
+background-color: rgba(60, 255, 0, 0.5);
+text-align: center;
+
+}
+
+h1 {
+
+    font-family: monospace;
+    font-size: 30px;
+
+}
+
+
+img {
+
+border-radius: 50px; 
+width: 20%;
+height: 20%;
+
+}
+
+li {
+
+
+font-size: 20px;
+font-style: italic;
+}
+
+
+
+ol {
+
+
+
+}
